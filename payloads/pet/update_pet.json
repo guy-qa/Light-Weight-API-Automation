@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "category": {
+    "id": 2,
+    "name": "bird"
+  },
+  "name": "Eagle",
+  "photoUrls": [
+    "https://www.google.com"
+  ],
+  "tags": [
+    {
+      "id": 3,
+      "name": "Flying Bird"
+    }
+  ],
+  "status": "sold"
+}
